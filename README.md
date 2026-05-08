@@ -18,21 +18,27 @@ Soy un **Administrador de la UNAM** que encontró en el análisis de datos la he
 
 ## 🎓 Formación y Certificaciones
 - 🎓 **Licenciatura en Administración** - UNAM (Titulado)
-- 📊 **Data Analytics Bootcamp** - TripleTen (En curso/Finalizado)
+- 📊 **Data Analytics Bootcamp** - TripleTen (Finalizado)
 - 📜 **Diplomado en Administración Estratégica** - UNAM
 
 ---
 
-## 🚀 Proyectos en Desarrollo
-*(Aquí irán los links a tus repositorios cuando tengas WiFi)*
-- **[Análisis LMS SCJN]:** Procesamiento de +700k registros para optimizar retención.
-- **[Nutri-Analytics]:** Script de Python para cálculo de macros y equivalencias.
+## 🚀 Proyectos Destacados
+
+### 📊 Optimización de Plataforma LMS (SCJN)
+- **Impacto:** Gestión de datos para +700k usuarios nacionales.
+- **Logro:** Reducción del 40% en tiempos de reporte mediante automatización con Python y SQL.
+- **Enfoque:** Integridad de datos y Business Intelligence.
+
+### 🐍 Nutri-Analytics (Personal Project)
+- **Objetivo:** Cálculo automatizado de equivalencias y macros para metas de fitness.
+- **Habilidades:** Lógica de programación en Python y manejo de estructuras de datos.
 
 ---
 
 ## 📊 Estadísticas de GitHub
-![Stats de Abinadi](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUÍ&layout=compact&theme=radical)
+![Stats de Abinadi](https://github-readme-stats.vercel.app/api?username=Abinadi33&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Abinadi33&layout=compact&theme=radical)
 
 ---
 
