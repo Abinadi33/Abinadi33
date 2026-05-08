@@ -1,6 +1,6 @@
 ---
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Data%20and%20Strategy&fontSize=70)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=blue&height=200&section=header&text=Data%25Analyst%25and%25Strategy&fontSize=75)
 
 ## 👤 Sobre mí
 Soy un **Administrador de la UNAM** que encontró en el análisis de datos la herramienta perfecta para optimizar la realidad. Con 6 años de experiencia en la **SCJN**, me especializo en manejar el caos de los datos masivos y convertirlos en reportes que la alta dirección puede entender y usar.
@@ -37,8 +37,11 @@ Soy un **Administrador de la UNAM** que encontró en el análisis de datos la he
 ---
 
 ## 📊 Estadísticas de GitHub
-![Stats de Abinadi](https://github-readme-stats.vercel.app/api?username=Abinadi33&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Abinadi33&layout=compact&theme=radical)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abinadi33&show_icons=true&theme=radical&hide_border=true" alt="Stats de Abinadi" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abinadi33&layout=compact&theme=radical&hide_border=true" alt="Lenguajes de Abinadi" />
+</p>
 
 ---
 
