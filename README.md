@@ -5,33 +5,23 @@ Me especializo en encontrar respuestas en el caos de los datos. Mi enfoque combi
 
 ---
 
-## 🚀 Proyectos Destacados
-*Haz clic en cada proyecto para ver los detalles:*
+## 🚀 Proyectos y Repositorios
+*Explora mi código y metodología:*
 
 <details>
-<summary><b>📊 1. Análisis de Retención: +700k Usuarios (SCJN)</b></summary>
+<summary><b>📈 Proyecto TripleTen: Análisis Exploratorio (EDA)</b></summary>
 
-- **El Problema:** Identificar por qué los usuarios dejaban los cursos en la plataforma LMS.
-- **Lo que hice:** Limpieza de datos masivos con Python y creación de Dashboards en Power BI.
-- **Resultado:** Automatización del 40% de los reportes y detección de cuellos de botella operativos.
-- **Herramientas:** `Python`, `SQL`, `Power BI`.
+- **Descripción:** (Aquí pon el nombre de tu proyecto favorito del bootcamp).
+- **Habilidades:** Limpieza de datos, manejo de valores ausentes y visualización.
+- **Código:** [Ver repositorio aquí](LINK_A_TU_REPO) *(Próximamente)*
 </details>
 
 <details>
-<summary><b>🐍 2. Automatización de Equivalencias Nutricionales</b></summary>
+<summary><b>🛠️ Automatización de Reportes Operativos</b></summary>
 
-- **El Problema:** Calcular macros y equivalencias de alimentos de forma rápida para metas de ganancia muscular.
-- **Lo que hice:** Un script de Python que procesa bases de datos de alimentos y calcula macros personalizados.
-- **Resultado:** Una herramienta de uso diario para optimizar la dieta basada en ciencia.
-- **Herramientas:** `Python (Pandas)`, `Excel`.
-</details>
-
-<details>
-<summary><b>🚲 3. Análisis de Rendimiento: Ciclistas en CDMX</b></summary>
-
-- **El Problema:** Visualizar las mejores rutas y tiempos para optimizar entrenamientos.
-- **Lo que hice:** Análisis exploratorio de datos (EDA) usando archivos de GPS.
-- **Herramientas:** `Jupyter Notebook`, `Matplotlib`.
+- **Contexto:** Experiencia profesional gestionando datos masivos (+700k registros).
+- **Logro:** Reducción del 40% en tiempos de procesamiento manual.
+- **Nota:** El código fuente es privado por políticas institucionales, pero apliqué lógica de `Python` y `SQL`.
 </details>
 
 ---
