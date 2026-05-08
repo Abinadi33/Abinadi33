@@ -1,6 +1,6 @@
 ---
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=bluelight&height=200&section=header&text=Data%18Analyst%18and%18Strategy&fontSize=75)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=green&height=200&section=header&text=Data%18Analyst%18and%18Strategy&fontSize=75)
 
 ## 👤 Sobre mí
 Soy un **Administrador de la UNAM** que encontró en el análisis de datos la herramienta perfecta para optimizar la realidad. Con 6 años de experiencia en la **SCJN**, me especializo en manejar el caos de los datos masivos y convertirlos en reportes que la alta dirección puede entender y usar.
