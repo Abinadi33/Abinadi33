@@ -1,44 +1,38 @@
-# ¡Hola! Soy Abinadi Montiel 👋
-### **Data Analyst | Administrador UNAM | EdTech Operations**
+---
 
-Me especializo en encontrar respuestas en el caos de los datos. Mi enfoque combina la **estrategia administrativa** con el **poder técnico** de Python y SQL para optimizar decisiones.
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Data%20%26%20Strategy&fontSize=70)
+
+## 👤 Sobre mí
+Soy un **Administrador de la UNAM** que encontró en el análisis de datos la herramienta perfecta para optimizar la realidad. Con 6 años de experiencia en la **SCJN**, me especializo en manejar el caos de los datos masivos y convertirlos en reportes que la alta dirección puede entender y usar.
 
 ---
 
-## 🚀 Proyectos y Repositorios
-*Explora mi código y metodología:*
-
-<details>
-<summary><b>📈 Proyecto TripleTen: Análisis Exploratorio (EDA)</b></summary>
-
-- **Descripción:** (Aquí pon el nombre de tu proyecto favorito del bootcamp).
-- **Habilidades:** Limpieza de datos, manejo de valores ausentes y visualización.
-- **Código:** [Ver repositorio aquí](LINK_A_TU_REPO) *(Próximamente)*
-</details>
-
-<details>
-<summary><b>🛠️ Automatización de Reportes Operativos</b></summary>
-
-- **Contexto:** Experiencia profesional gestionando datos masivos (+700k registros).
-- **Logro:** Reducción del 40% en tiempos de procesamiento manual.
-- **Nota:** El código fuente es privado por políticas institucionales, pero apliqué lógica de `Python` y `SQL`.
-</details>
+## 🛠️ Tecnologías y Herramientas
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
 
-## 🛠️ Mi Caja de Herramientas
-
-| **Categoría** | **Tecnologías** |
-| :--- | :--- |
-| **Lenguajes** | `Python`, `SQL (PostgreSQL)`, `JavaScript (Básico)` |
-| **Data Viz** | `Power BI`, `Tableau`, `Looker Studio` |
-| **Herramientas** | `Git`, `GitHub`, `Snowflake`, `Salesforce` |
-| **Soft Skills** | `Gestión Estratégica`, `Negociación`, `Inglés (B2)` |
+## 🎓 Formación y Certificaciones
+- 🎓 **Licenciatura en Administración** - UNAM (Titulado)
+- 📊 **Data Analytics Bootcamp** - TripleTen (En curso/Finalizado)
+- 📜 **Diplomado en Administración Estratégica** - UNAM
 
 ---
 
-## 📈 Mis Estadísticas de GitHub
+## 🚀 Proyectos en Desarrollo
+*(Aquí irán los links a tus repositorios cuando tengas WiFi)*
+- **[Análisis LMS SCJN]:** Procesamiento de +700k registros para optimizar retención.
+- **[Nutri-Analytics]:** Script de Python para cálculo de macros y equivalencias.
+
+---
+
+## 📊 Estadísticas de GitHub
 ![Stats de Abinadi](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUÍ&layout=compact&theme=radical)
 
 ---
 
