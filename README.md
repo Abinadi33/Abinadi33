@@ -1,16 +1,17 @@
-## Hi there 👋
+# ¡Hola! Soy Abinadi Montiel 🚀
+### Data Analyst | EdTech Operations Specialist | UNAM
 
-<!--
-**Abinadi33/Abinadi33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📊 **¿Qué hago?** Transformo datos en historias (SQL, Python, Power BI).
+- 🏗️ **Mi mayor logro:** Gestionar sistemas para +700,000 usuarios en la SCJN.
+- 🎓 **Formación:** Licenciado en Administración por la UNAM + Data Analyst por TripleTen.
+- 🚴 **Hobbies:** Música, Ciclismo y Fitness.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Mi Caja de Herramientas
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white) 
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+
+---
+📫 **¡Hablemos!** [[LinkedIn](https://www.linkedin.com/in/abinadi-montiel-adminunam)]
