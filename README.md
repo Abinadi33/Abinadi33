@@ -20,8 +20,7 @@ Licenciado en Administración por la **UNAM** con especialidad en **Análisis de
   2. **Módulo Analítico Financiero:** Cálculo automático del Revenue e ingresos acumulados (LTV).
   3. **Módulo de Growth Marketing:** Segmentación dinámica de audiencias objetivo (Clientes VIP con LTV > $1,000 USD y nichos de penetración como el sector *Moda*).
   4. **Renderizado de Control:** Matriz visual que contrasta el volumen de errores iniciales contra el estado óptimo post-pipeline.
-* **Resultado:** Logré el **100% de integridad de datos** corporativos, eliminando por completo las duplicidades y automatizando el reporte visual de control (*impacto_data_quality.png*) para la toma de decisiones directivas.
-
+* **Resultado:** Logré el **100% de integridad de datos** corporativos, eliminando por completo las duplicidades y automatizando el reporte visual de control para la toma de decisiones directivas.![Reporte de Calidad de Datos](./impacto_data_quality.png)
 #### 2. Gobernanza de Datos en Plataformas LMS (Moodle)
 * **Situación:** Gestión de una de las plataformas educativas más grandes del sector público con carga masiva de usuarios.
 * **Acción:** Administré la arquitectura de datos de **Moodle** para **700,000 usuarios**, supervisando la integridad de los reportes y el control de accesos institucionales.
