@@ -7,7 +7,7 @@
 
 > Transformando datos en decisiones estratégicas y procesos manuales en flujos automatizados.
 
-Licenciado en Administración por la **UNAM** con especialidad en **Ciencia de Datos**. Experto en optimizar la integridad de datos y la eficiencia operativa en entornos de alta regulación y gran escala.
+Licenciado en Administración por la **UNAM** con especialidad en **Analisis de Datos**. Experto en optimizar la integridad de datos y la eficiencia operativa en entornos de alta regulación y gran escala.
 
 ---
 
