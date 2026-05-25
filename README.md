@@ -13,7 +13,7 @@ Licenciado en Administración por la **UNAM** con especialidad en **Análisis de
 
 ### 🚀 Proyectos Destacados
 
-#### 1. Sistema de Inteligencia Comercial y Gobierno de Datos (Python)
+#### 1. Sistema de Inteligencia Comercial y Gobierno de Datos (Python) 👉 [Ver el código fuente de Python aquí](./market_intelligence_pipeline.py)
 * **Situación:** Ingesta de registros de ventas operativos caóticos, con inconsistencias críticas en nombres, formatos de edad flotantes y categorías duplicadas que generaban sesgos comerciales y riesgo de exclusión digital.
 * **Acción:** Diseñé e implementé un pipeline de software en **Python (Pandas, Matplotlib y Seaborn)** con una arquitectura de capas clara:
   1. **Capa ETL (Data Quality):** Funciones de limpieza y normalización bajo estrictas reglas de negocio.
