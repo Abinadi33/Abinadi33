@@ -1,7 +1,7 @@
 # Abinadi Montiel Santiago
 ## Data Analyst & EdTech Operations Specialist
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0070f3&height=220&section=header&text=Data%20Analyst%20%26%20Strategy&fontSize=65)
+![Banner](https://img.shields.io/badge/DATA%20ANALYST-STRATEGY-0070f3?style=for-the-badge&logo=github&logoColor=white)
 
 ### 👤 Sobre mí
 
